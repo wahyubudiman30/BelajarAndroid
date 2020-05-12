@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Makanan Khas Palu</string>
+    <string name="makanan_name">Nama Makanan</string>
+    <string name="detail">Detail</string>
+    <string name="about_me">About Me</string>
+    <string name="action_about">About</string>
+</resources>
